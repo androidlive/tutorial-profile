@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">App Profile Tutorial</string>
+    <string name="user_name_1">Pera Peric</string>
+    <string name="user_name_2">Sava Savic</string>
+    <string name="user_name_3">Jovan Jovanovic</string>
+    <string name="user_birthday_1">02.02.1994</string>
+    <string name="user_birthday_2">11.03.1989</string>
+    <string name="user_birthday_3">26.11.1996</string>
 </resources>
